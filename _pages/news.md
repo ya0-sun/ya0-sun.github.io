@@ -6,7 +6,7 @@ author_profile: true
 
 ## EuroCarto 2024
 
-I’m currently attending the conference [EuroCarto 2024](https://eurocarto2024.org/) in Vienna, Austria. Check out our [contribution](https://ica-abs.copernicus.org/articles/7/171/2024/ica-abs-7-171-2024.pdf) on estimating building floor numbers from crowdsourced street-level imagery!
+September 9 - 11, 2024: I attended [EuroCarto 2024](https://eurocarto2024.org/) in Vienna, Austria. Check out our [contribution](https://ica-abs.copernicus.org/articles/7/171/2024/ica-abs-7-171-2024.pdf) on estimating building floor numbers from crowdsourced street-level imagery!
 
 ## Mapathon at TU Munich
 
