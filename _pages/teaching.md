@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Lecturer
-- Remote Sensing, Master Course, Technical University of Munich. Winter Semester 2024 - 2025
+- Remote Sensing Selected Topics, Master Course, Technical University of Munich. Winter Semester 2024 - 2025
 
 ## Teaching Assistant
 - Numerical Modeling, Master Course, Technical University of Munich. Winter Semester 2014 - 2015
