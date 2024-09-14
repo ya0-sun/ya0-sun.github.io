@@ -15,7 +15,7 @@ Alejandro Rueda Segura presented our work "Generating Façade Segmentation Datas
 
 *9 - 11 September 2024*
 
-I attended [EuroCarto 2024](https://eurocarto2024.org/) in Vienna, Austria. Check out our [contribution](https://ica-abs.copernicus.org/articles/7/171/2024/ica-abs-7-171-2024.pdf) on estimating building floor numbers from crowdsourced street-level imagery!
+I presented our work ["Learning Building Floor Numbers from Crowdsourced Streetview Images"](https://ica-abs.copernicus.org/articles/7/171/2024/ica-abs-7-171-2024.pdf) in [EuroCarto 2024](https://eurocarto2024.org/) in Vienna, Austria. 
 
 ## Mapathon at TU Munich
 
