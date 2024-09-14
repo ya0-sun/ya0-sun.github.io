@@ -8,7 +8,7 @@ author_profile: true
 
 10 - 12 September 2024
 
-Alejandro Rueda Segura presented our work "Generating Façade Segmentation Datasets using Diffusion Models" in [GNI Symposium & Expo on Artificial Intelligence for the Built World](https://events.gni.tum.de/ai-symposium-2024/) in Munich. 
+Alejandro Rueda Segura presented our work "Generating Façade Segmentation Datasets using Diffusion Models" in [GNI Symposium & Expo on Artificial Intelligence for the Built World](https://events.gni.tum.de/ai-symposium-2024/). 
 
 
 ## EuroCarto 2024
@@ -25,14 +25,21 @@ YouthMappers at TU Munich, in collaboration with Geoawesome, Deutsches Rotes Kre
 
 Read more - [LinkedIn Post](https://www.linkedin.com/posts/sun-yao_mapathon-rundertischgis-mapathon-activity-7221555238619475968-hOOr/)
 
+## IGARSS 2024
+
+7 - 12 July 2024
+
+Yi Wang presented our work ["Post-Earthquake SAR-Optical Dataset for Quick Damaged-Building Detection"](https://ieeexplore.ieee.org/abstract/document/10641601) in [IGARSS2024](https://www.2024.ieeeigarss.org/) in Athens, Greece. 
+
 ## New Publication: QuickQuakeBuildings (QQB) 
 
 30 May 2024
 
 Our Paper "QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection" by Yao Sun, Yi Wang, and Michael Eineder is published on GRSL. 
 
-Read more - [GitHub Repo](https://github.com/ya0-sun/PostEQ-SARopt-BuildingDamage)
-            [LinkenIn Article](https://www.linkedin.com/pulse/introducing-quickquakebuildings-new-dataset-rapid-building-yao-sun-md0jf/?trackingId=MZvK1YHxnl4raeZQ8cuqGg%3D%3D)
+Open dataset and code - [GitHub Repo](https://github.com/ya0-sun/PostEQ-SARopt-BuildingDamage)
+
+Read more - [LinkenIn Article](https://www.linkedin.com/pulse/introducing-quickquakebuildings-new-dataset-rapid-building-yao-sun-md0jf/?trackingId=MZvK1YHxnl4raeZQ8cuqGg%3D%3D)
 
 
 ## GFZ Research Stay
