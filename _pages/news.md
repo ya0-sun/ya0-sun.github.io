@@ -4,7 +4,7 @@ title: "News"
 author_profile: true
 ---
 
-## EuroCarto 2024
+## GNI 2024
 
 September 10 - 12, 2024: Alejandro Rueda Segura presented our work "Generating Façade Segmentation Datasets using Diffusion Models" in [GNI Symposium & Expo on Artificial Intelligence for the Built World](https://events.gni.tum.de/ai-symposium-2024/) in Munich. 
 
