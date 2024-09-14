@@ -6,6 +6,11 @@ author_profile: true
 
 ## EuroCarto 2024
 
+September 10 - 12, 2024: Alejandro Rueda Segura presented our work "Generating Façade Segmentation Datasets using Diffusion Models" in [GNI Symposium & Expo on Artificial Intelligence for the Built World](https://events.gni.tum.de/ai-symposium-2024/) in Munich. 
+
+
+## EuroCarto 2024
+
 September 9 - 11, 2024: I attended [EuroCarto 2024](https://eurocarto2024.org/) in Vienna, Austria. Check out our [contribution](https://ica-abs.copernicus.org/articles/7/171/2024/ica-abs-7-171-2024.pdf) on estimating building floor numbers from crowdsourced street-level imagery!
 
 ## Mapathon at TU Munich
