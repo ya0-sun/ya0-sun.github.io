@@ -35,7 +35,7 @@ Yi Wang presented our work ["Post-Earthquake SAR-Optical Dataset for Quick Damag
 
 *30 May 2024*
 
-Our Paper "QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection" by Yao Sun, Yi Wang, and Michael Eineder is published on GRSL. 
+Our Paper ["QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection"](https://ieeexplore.ieee.org/document/10542156) is published on GRSL. 
 
 Open dataset and code - [GitHub Repo](https://github.com/ya0-sun/PostEQ-SARopt-BuildingDamage)
 
