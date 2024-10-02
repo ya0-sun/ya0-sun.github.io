@@ -8,7 +8,7 @@ author_profile: true
 
 *1 Oct 2024*
 
-Our Paper "Generation of High Quality Generation of Annotated Building Façade Dataset Data using Pre-Trained Diffusion Models" is accepted in [caadria2025](https://www.caadria2025.org/). Stay tuned for the full paper and dataset! 🎉
+Our Paper "Generation of High Quality Annotated Building Façade Dataset using Pre-Trained Diffusion Models" is accepted in [caadria2025](https://www.caadria2025.org/). Stay tuned for the full paper and dataset! 🎉
 
 ## GNI 2024
 
