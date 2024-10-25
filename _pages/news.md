@@ -3,7 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
-## Advanced Engineering Informatics 
+## GNI 2024 Paper Selected to Advanced Engineering Informatics 
 
 *24 Oct 2024* 
 
