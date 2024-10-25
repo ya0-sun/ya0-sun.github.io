@@ -3,6 +3,13 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+## Advanced Engineering Informatics 
+
+*24 Oct 2024* 
+
+Our extended abstract at **GNI2024** on "Generating Façade Segmentation Datasets using diffusion models" has been selected as one of the best submissions and presentations to the GNI Symposium and Expo and is invited to submit a full paper for review in "Advanced Engineering Informatics". 🎉 Great work Alejandro!
+
+🏠 🏡 🏫 🏢 🏣 🏥 🏦 🏪 🏩 🏨 💒 ⛪ 🏬 🏤 
 
 ## CAADRIA 2025 paper accepted 
 
