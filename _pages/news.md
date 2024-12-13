@@ -3,6 +3,19 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+
+## IGARSS 2025 Community-Contributed Session 
+
+*7 Nov 2024* 
+
+Happy to announce our session titled **Datasets and Benchmarking for Rapid Disaster Response: Multimodal Approaches for Post-Disaster Damaged Building Detection** accepted for [IGARSS 2025](https://2025.ieeeigarss.org/), taking place in Brisbane, Australia, from August 3 to 8, 2025! 🎉
+
+📢 **Call for Papers:**  The paper submission portal opens on **November 13, 2024**, and the deadline for submissions is **January 10, 2025**.
+
+👉 **To submit your paper:** Use the direct link: [https://2025.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2033](https://2025.ieeeigarss.org/Papers/Submission.asp?SessionType=CCS&ID=2033)  Or select our session code **CCS.33** in the "Primary Session Topic -> Subtopic" dropdown menu during submission.  
+
+Look forward to seeing you in Brisbane! 🌏✨
+
 ## GNI 2024 Paper Selected to Advanced Engineering Informatics 
 
 *24 Oct 2024* 
