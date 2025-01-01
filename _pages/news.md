@@ -3,6 +3,11 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+## New Position 
+
+*1 Jan 2025* 
+
+Happy to start a new position at German Aerospace Center 🔭🌏🚀
 
 ## IGARSS 2025 Community-Contributed Session 
 
