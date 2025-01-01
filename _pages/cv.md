@@ -16,7 +16,11 @@ redirect_from:
 
 ## Research Experience
 
-- Postdoctoral Associate (Since Dec 2021)
+- Research Associate (Since Jan 2025)
+
+  - German Aerespace Center (DLR)
+    
+- Postdoctoral Associate (Dec 2021 - Dec 2024)
 
   - Technical University of Munich
 - Visiting Researcher (May 2024 - Jun 2024)
