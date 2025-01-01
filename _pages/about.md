@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yao Sun, research associate at German Aerospace Center.
+Hi! I’m Yao Sun, a research associate at German Aerospace Center.
