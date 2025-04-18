@@ -3,6 +3,15 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+*1 Apr 2025* 
+
+🌍 Happy to share that I’ve been invited to join the debate session
+
+[Responsible AI for Natural Hazards Assessment and Management](https://meetingorganizer.copernicus.org/EGU25/session/54684#Orals) at [EGU 2025](https://www.egu25.eu/)! 
+
+Looking forward to meaningful discussions on the ethical and impactful use of AI in this critical field. 
+
+
 ## New Position 
 
 *1 Jan 2025* 
