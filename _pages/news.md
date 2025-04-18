@@ -3,6 +3,9 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+
+## EGU25 Debate Session 
+
 *1 Apr 2025* 
 
 🌍 Happy to share that I’ve been invited to join the debate session
