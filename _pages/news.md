@@ -8,7 +8,7 @@ author_profile: true
 
 *1 Apr 2025* 
 
-🌍 Happy to share that I’ve been invited to join the debate session
+🌍 Happy to share that I’ve been invited as a panelist in the debate session
 
 [Responsible AI for Natural Hazards Assessment and Management](https://meetingorganizer.copernicus.org/EGU25/session/54684#Orals) at [EGU 2025](https://www.egu25.eu/)! 
 
