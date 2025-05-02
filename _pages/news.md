@@ -4,7 +4,14 @@ title: "News"
 author_profile: true
 ---
 
-## EGU25 Debate Session 
+## EGU25 
+*2 May 2025* 
+
+I had a wonderful time at **EGU25** in Vienna. Especially enjoyed our debate session and reconnecting with so many friends and colleagues. 💗 👉 [LinkedIn Post](https://www.linkedin.com/posts/sun-yao_egu-egu25-heidikreibich-activity-7324190501266452493-4kxh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFG9uQBz5cxVoE5pygVIm8Sr9C1oMcdO5Y) 
+
+Looking forward to what's ahead! 🌏🚀
+
+## Invited to EGU25 Debate Session 
 
 *1 Apr 2025* 
 
