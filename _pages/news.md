@@ -4,6 +4,20 @@ title: "News"
 author_profile: true
 ---
 
+## Invited to Convene Session at International Climate Resilience Conference 
+*5 May 2025* 
+
+I am invited to co-convene [Session 8. Leveraging GeoAI and Digital Twins for Climate Resilience](https://www.geo.lmu.de/geographie/de/forschung/mensch-umwelt-beziehungen/climate-resilience-conference-2025/sessions-and-keynotes/) at [International Climate Resilience Conference](https://www.geo.lmu.de/geographie/de/forschung/mensch-umwelt-beziehungen/climate-resilience-conference-2025/)
+
+Looking forward to seeing you in Munich this October! 
+
+## Workshop at ISPRS-ISDE 2025  
+*3 May 2025* 
+
+Our workshop proposal titled **Next-Gen Disaster Management: Multi-Modal Geospatial Data and AI for Resilient Communities** has been accepted at the [ISPRS-ISDE 2025 conference](https://sot.kcau.ac.ke/ISPRS-2025-conference/) in Nairobi, Kenya, 02-04 Dec 2025. 
+
+Details on the workshop will be out soon. Stay tuned! 🌍 
+
 ## EGU25 
 *2 May 2025* 
 
