@@ -4,6 +4,33 @@ title: "News"
 author_profile: true
 ---
 
+
+## 🛰️ New Role | Co-Lead of IEEE GRSS IADF WG-RAI
+*Sep 2025*
+
+I’m honored to serve as **Co-Lead of the Responsible AI (WG-RAI)** working group within the **IEEE GRSS Image Analysis and Data Fusion (IADF) Technical Committee**.
+
+  
+Together with Prof. Pedram Ghamisi, Dr. Kasra Rafiezadeh Shahi, and Dr. Raian Maretto, I will help advance responsible AI practices for Earth observation — promoting transparency, fairness, and trust in AI-driven geoscience.
+
+
+👉 Learn more about IADF: [https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/)
+
+
+## 🌍 ISPRS-ISDE 2025 Workshop Update | Next-Gen Disaster Management
+
+*Sep 2025*
+
+I’m happy to announce that we will host this workshop **Next-Gen Disaster Management: Multi-Modal Geospatial Data & AI for Resilient Communities** at the *ISPRS-ISDE 2025 Conference on Geo-Digitalization for SDGs & 3rd Youth Innovation Forum of Digital Earth*, to be held in *Nairobi, Kenya (2–4 December 2025)*.  
+
+We welcome **1-page abstracts (max 500 words)** or **short papers (up to 5 pages, max 2500 words)** exploring how GeoAI, remote sensing, and multi-modal data can enhance disaster resilience and risk management.  💻 *Online participation is possible.*
+
+📧 **Submissions:** yao.sun@dlr.de and yu.li@list.lu  
+🔗 **Workshop info:** [ISPRS-ISDE 2025 Workshop](https://sot.kcau.ac.ke/ISPRS-2025-conference/conference-program/next-gen-disaster-management-multi-modal-geospatial-data-and-ai-for-resilient-communities/)  
+
+Looking forward to insightful discussions and new collaborations in Nairobi!
+
+
 ## Invited to Convene Session at International Climate Resilience Conference 
 *5 May 2025* 
 
