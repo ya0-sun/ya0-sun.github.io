@@ -17,7 +17,7 @@ author_profile: true
 
 ### 🎤 Two Research Presentations at IGARSS 2026
 
-*Aug 2026 | Washington, D.C., USA*
+*Aug 2026 @ Washington, D.C., USA*
 
 I presented two collaborative works at [IGARSS 2026](https://2026.ieeeigarss.org/) in Washington, D.C.
 
@@ -43,7 +43,7 @@ Looking forward to working closely with **Thomas Fröch** and the TUM Geoinforma
 
 ### 🎤 First Results of Our VLM Building Research at EGU26
 
-*May 2026 | Vienna, Austria*
+*May 2026 @ Vienna, Austria*
 
 Great to present the first results from Ahmed’s Master’s research at **EGU26**: **[“Vision-Language Models for Structural Exposure Modeling from Street-Level Imagery”](https://meetingorganizer.copernicus.org/EGU26/EGU26-23030.html)**, together with **Ahmed Abdelsalam, Xizhe Xue, Patrick Aravena Pelizari, and Christian Geiß**.
 
@@ -166,7 +166,7 @@ Many thanks to [Prof. Debarghya Ghoshdastidar at TUM](https://www.cs.cit.tum.de/
 
 ### 🧑‍🏫 IGARSS 2026 Tutorial | Responsible and Trustworthy AI for Earth Observation
 
-*9 Aug 2026 | Washington, D.C., USA*
+*9 Aug 2026 @ Washington, D.C., USA*
 
 A highlight of [IGARSS 2026](https://2026.ieeeigarss.org/) was developing and delivering the half-day tutorial **“Responsible and Trustworthy AI for Earth Observation: From Fairness to Reproducibility and Societal Impact.”**
 
@@ -221,7 +221,7 @@ Both sessions address questions that are becoming increasingly important as Eart
 
 ### 🧭 EGU26 | Remote Sensing and Explainable AI for Disaster Monitoring
 
-*May 2026 | Vienna, Austria*
+*May 2026 @ Vienna, Austria*
 
 We had a great session at **EGU26** on **[“Remote Sensing and Explainable AI for Hazard Assessment and Real-Time, Large-Scale Disaster Monitoring”](https://meetingorganizer.copernicus.org/EGU26/session/56655)**.
 
@@ -267,7 +267,7 @@ There are many connections between his work and the urban research we are develo
 
 ### 🧭 Next-Gen Disaster Management Workshop at ISPRS–ISDE 2025
 
-*Dec 2025 | Nairobi, Kenya*
+*Dec 2025 @ Nairobi, Kenya*
 
 A memorable few days in Nairobi, where **Yu Li and I organized and chaired** the workshop **[“Next-Gen Disaster Management: Multi-Modal Geospatial Data & AI for Resilient Communities”](https://sot.kcau.ac.ke/ISPRS-2025-conference/next-gen-disaster-management-multi-modal-geospatial-data-and-ai-for-resilient-communities/)** at ISPRS–ISDE 2025.
 
@@ -280,7 +280,7 @@ The workshop generated many interesting discussions, new connections, and follow
 
 ### 🧭 iCARE 2025 | GeoAI and Digital Twins for Climate Resilience
 
-*Oct 2025 | Munich, Germany*
+*Oct 2025 @ Munich, Germany*
 
 A great few days at the [International Climate Resilience Conference (iCARE 2025)](https://www.geo.lmu.de/geographie/en/research/human-environment-relations/climate-resilience-conference-2025/) in Munich.
 
