@@ -6,11 +6,19 @@ author_profile: true
 
 ## Invited Talks
 
+- Responsible AI for Natural Hazards Assessment and Management
+  - Panelist in the First Great Debate session of the Natural Hazards Division, European Geosciences Union (EGU) General Assembly 2025, Vienna, Austria. (Apr 30, 2025)
 - Building Information Extraction From Remote Sensing and Street-Level Imagery 
   - GeoAI Webinar for Geospatial Science and Human Security Division, Oak Ridge National Laboratory, USA. Invited by Dr. Hsiuhan Lexie Yang. (May 3, 2024)
 
 ## Selected Conference Talks
 
+- Standards for AI-Enabled Earth Observation in Disaster Management: A Cycle-Based Landscape Analysis
+  - In IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Washington, D.C., USA. (Aug 2026)
+- Post-Earthquake SAR-Optical Dataset for Quick Damaged-Building Detection
+  - In IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece. (Jul 2024)
+- Towards Large-Scale Building Attribute Mapping Using Crowdsourced Images: Scene Text Recognition on Flickr and Problems to Be Solved
+  - In ISPRS Geospatial Week, Cairo, Egypt. (Sep 2023)
 - Artificial Intelligence Based Building Attributes Enrichment in OpenStreetMap Using Street-View Images
   - In International Cartographic Conference (ICC), Cape Town, South Africa. (Aug 2023)
 - Bounding Box Regression Network for Building Height Retrieval Using a Single SAR Image
