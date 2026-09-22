@@ -14,6 +14,13 @@ author_profile: true
 
 ## Journal papers
 
+- __Yao Sun__, Liqiu Meng, Andrés Camero, Stefan Auer, Xiao Xiang Zhu (2026). A Deep Dive into OpenStreetMap Research Since its Inception (2008–2024): Contributors, Topics, and Future Trends. International Journal of Geographical Information Science, 40(9), pp. 3013-3067.
+- Olaf Wysocki, Benedikt Schwab, Manoj Kumar Biswanath, Michael Greza, Qilin Zhang, Jingwei Zhu, Thomas Froech, Medhini Heeramaglore, Ihab Hijazi, Khaoula Kanna, Mathias Pechinger, Zhaiyu Chen, __Yao Sun__, Alejandro Rueda Segura, Ziyang Xu, Omar AbdelGafar, Mansour Mehranfar, Chandan Yeshwanth, Yueh-Cheng Liu, Hadi Yazdi, Jiapan Wang, Stefan Auer, Katharina Anders, Klaus Bogenberger, André Borrmann, Angela Dai, Ludwig Hoegner, Christoph Holst, Thomas H. Kolbe, Ferdinand Ludwig, Matthias Nießner, Frank Petzold, Xiao Xiang Zhu, Boris Jutzi (2026). TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset. ISPRS Journal of Photogrammetry and Remote Sensing, 232, pp. 810-830.
+- Pu Xiao, Xiaoyan Lu, __Yao Sun__, Yuting Dong, Ji Zhao, Yanfei Zhong (2026). Semi-Supervised Semantic Segmentation of Remote Sensing Images with Foundation Model Distillation and Multi-Level Consistency. IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-15.
+- Yuting Dong, Yaozu Li, Ji Zhao, __Yao Sun__, Mingsheng Liao (2026). Deep Learning for Radargrammetric DSM Generation: A StereoSAR Dataset and Multi-Scale Fusion Network. IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-15.
+- Xuke Hu, __Yao Sun__, Tobias Hecking, Jens Kersten, Friederike Klan (2026). UniTopRank: A Scalable and Language-Independent Method for Toponym Resolution. International Journal of Geographical Information Science.
+- Maoqi Liu, Marzieh Baes, Mahdi Motagh, Qian Song, __Yao Sun__, Zelong Guo, Tao Li, Sichun Long (2026). Analyzing Dominant Driving Factors of Ground Deformation in Mining Area via Multimodal Feature Fusion and Explainable Modeling. GIScience & Remote Sensing, 63(1), 2700121.
+- Ji Zhao, Jiayu Tong, Tianhong Li, __Yao Sun__, Changliang Shao, Yuting Dong (2025). CISNet: Change Information Guided Semantic Segmentation Network for Automatic Extraction of Glacier Calving Fronts. ISPRS Journal of Photogrammetry and Remote Sensing, 228, pp. 666-678.
 - __Yao Sun__, Yi Wang, Michael Eineder (2024). QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection. IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024.
 - Qingyu Li, Lichao Mou, __Yao Sun__, Yuansheng Hua, Yilei Shi, Xiao Xiang Zhu (2024). A Review of Building Extraction from Remote Sensing Imagery: Geometrical Structures and Semantic Attributes. IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, 2024.
 - Qingyu Li, Lichao Mou, Yuansheng Hua, Yilei Shi, Sining Chen, __Yao Sun__, and Xiao Xiang Zhu (2023). 3DCentripetalNet: Building Height Retrieval from Monocular Remote Sensing Imagery. International Journal of Applied Earth Observation and Geoinformation, 120, pp. 103311.
@@ -24,8 +31,16 @@ author_profile: true
 - __Yao Sun__, Qingyun Du (2019). Building Feature Simplification based on Curve Evolution Theory. Science of Surveying and Mapping, 44(10), pp. 158-164.
 - __Yao Sun__, Qin Tian, Zhenfeng Zhu (2011). Analysis on Land Use Change and Driving Force in Lanzhou City. Journal of Anhui Agricultural Sciences, 39(29), pp. 18188-18191
 
+## Preprints
+
+- Kasra Rafiezadeh Shahi, Monique M. Kuglitsch, Jean Baptiste Bove, Michele Ronco, Pedram Ghamisi, __Yao Sun__, Gabriella Duca, Maria Vittoria Gargiulo, Anna Berlin, Juha-Pekka Jäpölä, Félix Pharand-Deschênes, Bruce D. Malamud, Boris Sakschewski, Johan Rockström, Heidi Kreibich (2026). Governing Generative AI in Disaster Risk Management. EarthArXiv.
+- __Yao Sun__, Sining Chen, Yifan Tian, Xiao Xiang Zhu (2025). Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method. arXiv:2505.18021.
+
 ## Conference papers
 
+- __Yao Sun__, Nina Merkle, Monique Kuglitsch (2026). “Standards for AI-Enabled Earth Observation in Disaster Management: A Cycle-Based Landscape Analysis”. In IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
+- Pu Xiao, Xiaoyan Lu, __Yao Sun__, Yuting Dong, Ji Zhao, Yanfei Zhong (2026). “Semi-Supervised Remote Sensing Segmentation via Foundation Model Distillation and Consistency Learning”. In IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
+- __Yao Sun__, Ahmed Abdelsalam, Xizhe Xue, Patrick Aravena Pelizari, Christian Geiß (2026). “Vision-Language Models for Structural Exposure Modeling from Street-Level Imagery”. In EGU General Assembly 2026.
 - Alejandro Rueda Segura, __Yao Sun__, Frank Petzold (2024). “Generating Façade Segmentation Datasets using diffusion models”. In GNI Symposium & Expo on Artificial Intelligence for the Built World.
 - Yifan Tian, __Yao Sun__, Xiaoxiang Zhu (2024). “Learning Building Floor Numbers from Crowdsourced Street-view Images”. In European Cartographic Conference – EuroCarto 2024.
 - __Yao Sun__, Yi Wang, Michael Eineder (2024). “Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection”. In IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
