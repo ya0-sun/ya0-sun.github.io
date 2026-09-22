@@ -11,6 +11,9 @@ author_profile: true
 - Numerical Modeling, Master Course, Technical University of Munich. Winter Semester 2014 - 2015
 
 ## Supervisor for Master Theses
+- German Aerospace Center (DLR)
+  - Valerio Costa. A Workflow for the Curation and Semantic Annotation of Street-View Imagery. 2025 - 2026
+  - Ahmed Abdelsalam. Vision-Language Models for Urban Attribute Recognition and Building Exposure Reports. 2025 - 2026
 - Technical University of Munich
   - Sumeer Koirala. Window Reconstruction from Street-view Images. 2024
   - Yifan Tian. Estimating the Number of Building Stories from Open Street Level Images. 2023 - 2024
@@ -19,6 +22,8 @@ author_profile: true
   - Wenlu Sun. A Generative AI Model of Urban Spaces in the Face of Climate Change. 2022 - 2023
 
 ## Supervisor for Research Projects
+- TUM Data Innovation Lab Project, Technical University of Munich
+  - Pop-up City: Layered Urban Asset Reconstruction from Single Images. Winter Semester 2026
 - Remote Sensing Seminar, Master Course, Technical University of Munich
   - Colin Moldenhauer. SAR Image Simulation of Earthquake-induced Building Damage. Winter Semester 2023 - 2024
   - Afreen Abdul Khaleel. Building Attribute Assessment in OpenStreetMap. Winter Semester 2022 - 2023
